@@ -1,0 +1,672 @@
+{
+  "Parts": [
+    {
+      "StandardPricing": [
+        {
+          "BreakQuantity": 1,
+          "UnitPrice": 0.86,
+          "TotalPrice": 0.86
+        },
+        {
+          "BreakQuantity": 10,
+          "UnitPrice": 0.65,
+          "TotalPrice": 6.5
+        },
+        {
+          "BreakQuantity": 100,
+          "UnitPrice": 0.465,
+          "TotalPrice": 46.5
+        },
+        {
+          "BreakQuantity": 500,
+          "UnitPrice": 0.36,
+          "TotalPrice": 180
+        },
+        {
+          "BreakQuantity": 1000,
+          "UnitPrice": 0.31,
+          "TotalPrice": 310
+        },
+        {
+          "BreakQuantity": 2500,
+          "UnitPrice": 0.29,
+          "TotalPrice": 725
+        },
+        {
+          "BreakQuantity": 5000,
+          "UnitPrice": 0.275,
+          "TotalPrice": 1375
+        }
+      ],
+      "Category": {
+        "Id": "2",
+        "Text": "Capacitors"
+      },
+      "ChipOutpostPart": false,
+      "RohsInfo": "Request Inventory Verification",
+      "LeadStatus": "Lead Free",
+      "Family": {
+        "Id": "9",
+        "Text": "Aluminum Electrolytic Capacitors"
+      },
+      "Parameters": [
+        {
+          "ParameterId": 7,
+          "ValueId": "3",
+          "Parameter": "Packaging",
+          "Value": "Bulk"
+        },
+        {
+          "ParameterId": 1989,
+          "ValueId": "0",
+          "Parameter": "Part Status",
+          "Value": "Active"
+        },
+        {
+          "ParameterId": 2049,
+          "ValueId": "u1000µF",
+          "Parameter": "Capacitance",
+          "Value": "1000µF"
+        },
+        {
+          "ParameterId": 3,
+          "ValueId": "5",
+          "Parameter": "Tolerance",
+          "Value": "±20%"
+        },
+        {
+          "ParameterId": 2079,
+          "ValueId": "u35V",
+          "Parameter": "Voltage - Rated",
+          "Value": "35V"
+        },
+        {
+          "ParameterId": 724,
+          "ValueId": "233",
+          "Parameter": "ESR (Equivalent Series Resistance)",
+          "Value": "-"
+        },
+        {
+          "ParameterId": 725,
+          "ValueId": "7",
+          "Parameter": "Lifetime @ Temp.",
+          "Value": "2000 Hrs @ 105°C"
+        },
+        {
+          "ParameterId": 252,
+          "ValueId": "42",
+          "Parameter": "Operating Temperature",
+          "Value": "-55°C ~ 105°C"
+        },
+        {
+          "ParameterId": 52,
+          "ValueId": "14",
+          "Parameter": "Polarization",
+          "Value": "Polar"
+        },
+        {
+          "ParameterId": 707,
+          "ValueId": "34",
+          "Parameter": "Ratings",
+          "Value": "-"
+        },
+        {
+          "ParameterId": 405,
+          "ValueId": "19",
+          "Parameter": "Applications",
+          "Value": "General Purpose"
+        },
+        {
+          "ParameterId": 2253,
+          "ValueId": "u810mA @ 120Hz",
+          "Parameter": "Ripple Current @ Low Frequency",
+          "Value": "810mA @ 120Hz"
+        },
+        {
+          "ParameterId": 2260,
+          "ValueId": "u931.5mA @ 100kHz",
+          "Parameter": "Ripple Current @ High Frequency",
+          "Value": "931.5mA @ 100kHz"
+        },
+        {
+          "ParameterId": 508,
+          "ValueId": "4",
+          "Parameter": "Lead Spacing",
+          "Value": "0.197\" (5.00mm)"
+        },
+        {
+          "ParameterId": 46,
+          "ValueId": "13984",
+          "Parameter": "Size / Dimension",
+          "Value": "0.492\" Dia (12.50mm)"
+        },
+        {
+          "ParameterId": 1500,
+          "ValueId": "273",
+          "Parameter": "Height - Seated (Max)",
+          "Value": "0.866\" (22.00mm)"
+        },
+        {
+          "ParameterId": 884,
+          "ValueId": "4",
+          "Parameter": "Surface Mount Land Size",
+          "Value": "-"
+        },
+        {
+          "ParameterId": 69,
+          "ValueId": "80",
+          "Parameter": "Mounting Type",
+          "Value": "Through Hole"
+        },
+        {
+          "ParameterId": 16,
+          "ValueId": "11811",
+          "Parameter": "Package / Case",
+          "Value": "Radial, Can"
+        }
+      ],
+      "PartUrl": "/product-detail/en/panasonic-electronic-components/ECA-1VHG102/P5555-ND/245154",
+      "PrimaryDatasheet": "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1215.pdf",
+      "PrimaryPhoto": "http://media.digikey.com/Photos/Panasonic%20Photos/NHG12-SERIES.jpg",
+      "PrimaryVideo": "",
+      "RohsSubs": [],
+      "Series": {
+        "ParameterId": -5,
+        "ValueId": "189",
+        "Parameter": "Series",
+        "Value": "NHG"
+      },
+      "SuggestedSubs": [],
+      "ManufacturerLeadWeeks": "14 weeks",
+      "ManufacturerPageUrl": "/en/supplier-centers/p/panasonic",
+      "PartStatus": "Active",
+      "AlternatePackaging": [],
+      "DetailedDescription": "1000µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 105°C",
+      "TariffDescription": "",
+      "BuyUrl": "https://www.digikey.com/product-detail/en/panasonic-electronic-components/ECA-1VHG102/P5555-ND/245154",
+      "ManufacturerPartNumber": "ECA-1VHG102",
+      "MinimumOrderQuantity": 1,
+      "NonStock": false,
+      "Packaging": {
+        "ParameterId": 7,
+        "ValueId": "3",
+        "Parameter": "Packaging",
+        "Value": "Bulk"
+      },
+      "PartId": 245154,
+      "QuantityOnHand": 20611,
+      "DigiKeyPartNumber": "P5555-ND",
+      "ProductDescription": "CAP ALUM 1000UF 20% 35V RADIAL",
+      "UnitPrice": 0.86,
+      "ManufacturerName": {
+        "Id": "10",
+        "Text": "Panasonic Electronic Components"
+      },
+      "ManfacturerPublicQuantity": 0,
+      "AvailableOnOrder": 0
+    }
+  ],
+  "Taxonomy": {
+    "Children": [
+      {
+        "Children": [
+          {
+            "Children": [],
+            "PartCount": 1,
+            "NewPartCount": 0,
+            "ParameterId": -8,
+            "ValueId": "58",
+            "Parameter": "Categories",
+            "Value": "Aluminum Electrolytic Capacitors"
+          }
+        ],
+        "PartCount": 1,
+        "NewPartCount": 0,
+        "ParameterId": -8,
+        "ValueId": "3",
+        "Parameter": "Categories",
+        "Value": "Capacitors"
+      }
+    ],
+    "PartCount": 1,
+    "NewPartCount": 0,
+    "ParameterId": -8,
+    "ValueId": "0",
+    "Parameter": "Categories",
+    "Value": "Out of Bounds"
+  },
+  "LimitedCategories": [
+    {
+      "Id": "2",
+      "Category": "Capacitors",
+      "Families": [
+        {
+          "Id": "9",
+          "Name": "Aluminum Electrolytic Capacitors",
+          "PartCount": 1
+        }
+      ]
+    }
+  ],
+  "FilterValues": [],
+  "LimitedFilterValues": [
+    {
+      "Values": [
+        {
+          "Vid": "10",
+          "Value": "Panasonic Electronic Components"
+        }
+      ],
+      "Pid": -1,
+      "Parameter": "Manufacturer"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "3",
+          "Value": "Bulk"
+        }
+      ],
+      "Pid": 7,
+      "Parameter": "Packaging"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "189",
+          "Value": "NHG"
+        }
+      ],
+      "Pid": -5,
+      "Parameter": "Series"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "0",
+          "Value": "Active"
+        }
+      ],
+      "Pid": 1989,
+      "Parameter": "Part Status"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "u1000µF",
+          "Value": "1000µF"
+        }
+      ],
+      "Pid": 2049,
+      "Parameter": "Capacitance"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "5",
+          "Value": "±20%"
+        }
+      ],
+      "Pid": 3,
+      "Parameter": "Tolerance"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "u35V",
+          "Value": "35V"
+        }
+      ],
+      "Pid": 2079,
+      "Parameter": "Voltage - Rated"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "233",
+          "Value": "-"
+        }
+      ],
+      "Pid": 724,
+      "Parameter": "ESR (Equivalent Series Resistance)"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "7",
+          "Value": "2000 Hrs @ 105°C"
+        }
+      ],
+      "Pid": 725,
+      "Parameter": "Lifetime @ Temp."
+    },
+    {
+      "Values": [
+        {
+          "Vid": "42",
+          "Value": "-55°C ~ 105°C"
+        }
+      ],
+      "Pid": 252,
+      "Parameter": "Operating Temperature"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "14",
+          "Value": "Polar"
+        }
+      ],
+      "Pid": 52,
+      "Parameter": "Polarization"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "34",
+          "Value": "-"
+        }
+      ],
+      "Pid": 707,
+      "Parameter": "Ratings"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "19",
+          "Value": "General Purpose"
+        }
+      ],
+      "Pid": 405,
+      "Parameter": "Applications"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "u810mA @ 120Hz",
+          "Value": "810mA @ 120Hz"
+        }
+      ],
+      "Pid": 2253,
+      "Parameter": "Ripple Current @ Low Frequency"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "u931.5mA @ 100kHz",
+          "Value": "931.5mA @ 100kHz"
+        }
+      ],
+      "Pid": 2260,
+      "Parameter": "Ripple Current @ High Frequency"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "4",
+          "Value": "0.197\" (5.00mm)"
+        }
+      ],
+      "Pid": 508,
+      "Parameter": "Lead Spacing"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "13984",
+          "Value": "0.492\" Dia (12.50mm)"
+        }
+      ],
+      "Pid": 46,
+      "Parameter": "Size / Dimension"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "273",
+          "Value": "0.866\" (22.00mm)"
+        }
+      ],
+      "Pid": 1500,
+      "Parameter": "Height - Seated (Max)"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "4",
+          "Value": "-"
+        }
+      ],
+      "Pid": 884,
+      "Parameter": "Surface Mount Land Size"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "80",
+          "Value": "Through Hole"
+        }
+      ],
+      "Pid": 69,
+      "Parameter": "Mounting Type"
+    },
+    {
+      "Values": [
+        {
+          "Vid": "11811",
+          "Value": "Radial, Can"
+        }
+      ],
+      "Pid": 16,
+      "Parameter": "Package / Case"
+    }
+  ],
+  "Results": 1,
+  "ExactMatches": 0,
+  "ExactParts": [],
+  "ExactDigiKeyPart": {
+    "StandardPricing": [
+      {
+        "BreakQuantity": 1,
+        "UnitPrice": 0.86,
+        "TotalPrice": 0.86
+      },
+      {
+        "BreakQuantity": 10,
+        "UnitPrice": 0.65,
+        "TotalPrice": 6.5
+      },
+      {
+        "BreakQuantity": 100,
+        "UnitPrice": 0.465,
+        "TotalPrice": 46.5
+      },
+      {
+        "BreakQuantity": 500,
+        "UnitPrice": 0.36,
+        "TotalPrice": 180
+      },
+      {
+        "BreakQuantity": 1000,
+        "UnitPrice": 0.31,
+        "TotalPrice": 310
+      },
+      {
+        "BreakQuantity": 2500,
+        "UnitPrice": 0.29,
+        "TotalPrice": 725
+      },
+      {
+        "BreakQuantity": 5000,
+        "UnitPrice": 0.275,
+        "TotalPrice": 1375
+      }
+    ],
+    "Category": {
+      "Id": "2",
+      "Text": "Capacitors"
+    },
+    "ChipOutpostPart": false,
+    "RohsInfo": "Request Inventory Verification",
+    "LeadStatus": "Lead Free",
+    "Family": {
+      "Id": "9",
+      "Text": "Aluminum Electrolytic Capacitors"
+    },
+    "Parameters": [
+      {
+        "ParameterId": 7,
+        "ValueId": "3",
+        "Parameter": "Packaging",
+        "Value": "Bulk"
+      },
+      {
+        "ParameterId": 1989,
+        "ValueId": "0",
+        "Parameter": "Part Status",
+        "Value": "Active"
+      },
+      {
+        "ParameterId": 2049,
+        "ValueId": "u1000µF",
+        "Parameter": "Capacitance",
+        "Value": "1000µF"
+      },
+      {
+        "ParameterId": 3,
+        "ValueId": "5",
+        "Parameter": "Tolerance",
+        "Value": "±20%"
+      },
+      {
+        "ParameterId": 2079,
+        "ValueId": "u35V",
+        "Parameter": "Voltage - Rated",
+        "Value": "35V"
+      },
+      {
+        "ParameterId": 724,
+        "ValueId": "233",
+        "Parameter": "ESR (Equivalent Series Resistance)",
+        "Value": "-"
+      },
+      {
+        "ParameterId": 725,
+        "ValueId": "7",
+        "Parameter": "Lifetime @ Temp.",
+        "Value": "2000 Hrs @ 105°C"
+      },
+      {
+        "ParameterId": 252,
+        "ValueId": "42",
+        "Parameter": "Operating Temperature",
+        "Value": "-55°C ~ 105°C"
+      },
+      {
+        "ParameterId": 52,
+        "ValueId": "14",
+        "Parameter": "Polarization",
+        "Value": "Polar"
+      },
+      {
+        "ParameterId": 707,
+        "ValueId": "34",
+        "Parameter": "Ratings",
+        "Value": "-"
+      },
+      {
+        "ParameterId": 405,
+        "ValueId": "19",
+        "Parameter": "Applications",
+        "Value": "General Purpose"
+      },
+      {
+        "ParameterId": 2253,
+        "ValueId": "u810mA @ 120Hz",
+        "Parameter": "Ripple Current @ Low Frequency",
+        "Value": "810mA @ 120Hz"
+      },
+      {
+        "ParameterId": 2260,
+        "ValueId": "u931.5mA @ 100kHz",
+        "Parameter": "Ripple Current @ High Frequency",
+        "Value": "931.5mA @ 100kHz"
+      },
+      {
+        "ParameterId": 508,
+        "ValueId": "4",
+        "Parameter": "Lead Spacing",
+        "Value": "0.197\" (5.00mm)"
+      },
+      {
+        "ParameterId": 46,
+        "ValueId": "13984",
+        "Parameter": "Size / Dimension",
+        "Value": "0.492\" Dia (12.50mm)"
+      },
+      {
+        "ParameterId": 1500,
+        "ValueId": "273",
+        "Parameter": "Height - Seated (Max)",
+        "Value": "0.866\" (22.00mm)"
+      },
+      {
+        "ParameterId": 884,
+        "ValueId": "4",
+        "Parameter": "Surface Mount Land Size",
+        "Value": "-"
+      },
+      {
+        "ParameterId": 69,
+        "ValueId": "80",
+        "Parameter": "Mounting Type",
+        "Value": "Through Hole"
+      },
+      {
+        "ParameterId": 16,
+        "ValueId": "11811",
+        "Parameter": "Package / Case",
+        "Value": "Radial, Can"
+      }
+    ],
+    "PartUrl": "/product-detail/en/panasonic-electronic-components/ECA-1VHG102/P5555-ND/245154",
+    "PrimaryDatasheet": "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1215.pdf",
+    "PrimaryPhoto": "http://media.digikey.com/Photos/Panasonic%20Photos/NHG12-SERIES.jpg",
+    "PrimaryVideo": "",
+    "RohsSubs": [],
+    "Series": {
+      "ParameterId": -5,
+      "ValueId": "189",
+      "Parameter": "Series",
+      "Value": "NHG"
+    },
+    "SuggestedSubs": [],
+    "ManufacturerLeadWeeks": "14 weeks",
+    "ManufacturerPageUrl": "/en/supplier-centers/p/panasonic",
+    "PartStatus": "Active",
+    "AlternatePackaging": [],
+    "DetailedDescription": "1000µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 105°C",
+    "TariffDescription": "",
+    "BuyUrl": "https://www.digikey.com/product-detail/en/panasonic-electronic-components/ECA-1VHG102/P5555-ND/245154",
+    "ManufacturerPartNumber": "ECA-1VHG102",
+    "MinimumOrderQuantity": 1,
+    "NonStock": false,
+    "Packaging": {
+      "ParameterId": 7,
+      "ValueId": "3",
+      "Parameter": "Packaging",
+      "Value": "Bulk"
+    },
+    "PartId": 245154,
+    "QuantityOnHand": 20611,
+    "DigiKeyPartNumber": "P5555-ND",
+    "ProductDescription": "CAP ALUM 1000UF 20% 35V RADIAL",
+    "UnitPrice": 0.86,
+    "ManufacturerName": {
+      "Id": "10",
+      "Text": "Panasonic Electronic Components"
+    },
+    "ManfacturerPublicQuantity": 0,
+    "AvailableOnOrder": 0
+  }
+}

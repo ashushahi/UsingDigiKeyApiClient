@@ -1,0 +1,103 @@
+﻿{
+  "Errors": [],
+  "SearchResults": {
+    "NumberOfResult": 1,
+    "Parts": [
+      {
+        "Availability": "113093 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf",
+        "Description": "Multilayer Ceramic Capacitors MLCC - SMD/SMT RECOMMENDED ALT 81-GRM188C71C225KE1D",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/murata/images/GJM0335C1E220JB01E_SPL.JPG",
+        "Category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+        "LeadTime": "273 Days",
+        "LifecycleStatus": "Not Recommended for New Designs",
+        "Manufacturer": "Murata Electronics",
+        "ManufacturerPartNumber": "GRM21BR71C225KA12L",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "81-GRM21BR71C225KA2L",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "3000"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "₹23.27",
+            "Currency": "INR"
+          },
+          {
+            "Quantity": 10,
+            "Price": "₹16.00",
+            "Currency": "INR"
+          },
+          {
+            "Quantity": 100,
+            "Price": "₹9.52",
+            "Currency": "INR"
+          },
+          {
+            "Quantity": 500,
+            "Price": "₹7.12",
+            "Currency": "INR"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://www.mouser.in/ProductDetail/Murata-Electronics/GRM21BR71C225KA12L?qs=vS1sKHMaE9W1mbhDq4LJMA%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "ProductCompliance": [
+          {
+            "ComplianceName": "BRHTS",
+            "ComplianceValue": "85322410"
+          },
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8532240010"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8532241000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8532240020"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8532240006"
+          },
+          {
+            "ComplianceName": "KRHTS",
+            "ComplianceValue": "8532240000"
+          },
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8532240000"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      }
+    ]
+  }
+}
